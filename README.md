@@ -1,2 +1,2 @@
 # CC-JAN-JAVA
- Java Internship Projects.
+ CodeClause - Java Internship Projects.
